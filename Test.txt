@@ -1,1 +1,1 @@
-print("Hello,world!);
+print("Я вас не обманываю");
